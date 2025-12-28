@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --color-seSky: #C3EBFA;
+  --color-seSkyLight: #EDF9FD;
+  --color-sePurple: #CFCEFF;
+  --color-sePurpleLight: #F1F0FF;
+  --color-seYellow: #FAE27C;
+  --color-seYellowLight: #FEFCE8;
+}
